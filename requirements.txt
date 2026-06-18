@@ -1,0 +1,11 @@
+tensorflow
+streamlit
+numpy
+pillow
+
+#run command
+#st.camera_input()
+
+#source venv/bin/activate
+#streamlit run app.py
+
